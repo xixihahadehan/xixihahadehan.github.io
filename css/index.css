@@ -1,0 +1,871 @@
+*{
+	margin: 0;
+	padding: 0; 
+}
+.head-box{
+	width: 100%;
+	height: 32px;
+	background:#f7f7f7;
+	border-bottom: 1px solid #cccccc;
+}
+.main{
+	width: 1200px;
+	height: 100%;
+	background:#f7f7f7;
+	margin: 0 auto  ;
+}
+.aa{
+    width: 460px;
+	height: 100%;
+	background: #f7f7f7;
+	float: right;
+	
+
+
+}
+.bb{
+	width: 138px;
+	height: 100%;
+	background:#f7f7f7;
+	float: left;
+	font-size: 12px;
+	color: #808080;
+	line-height: 32px;
+	margin-right: 20px;
+
+
+}
+.qq{
+	width: 89px;
+	height: 100%;
+	background:#f7f7f7;
+	float: left;
+	font-size: 12px;
+	color: #808080;
+	line-height: 32px;
+
+}
+.m{
+	font-size: 12px;
+	color: #808080;
+	margin-right: 16px ;
+	text-decoration: none;
+
+
+}
+.n{
+	font-size: 12px;
+	color: #808080;
+	margin-right: 14px ;
+	text-decoration: none;
+
+
+}
+.d{
+	font-size: 12px;
+	color: #808080;
+	text-decoration: none;
+	}
+.wode{
+	width: 62px;
+	height: 100%;
+	background:#f7f7f7;
+	float: left;
+	font-size: 12px;
+	color: #808080;
+	margin-left: 14px ;
+	line-height: 32px;
+	text-decoration: none;
+
+}
+.wode:hover{
+	color: #b71a21;
+
+}
+
+.gonggao{
+	width: 80px;
+	height: 100%;
+	background:#f7f7f7;
+	margin-right: 13px ;
+	float: left;
+}
+.pict{
+	width: 16px;
+	height: 16px;
+/* 	background:red; */
+	float: left;
+	margin-top: 9px;
+	background: url('../img/images/voiceL_03.png') no-repeat center center;
+
+}
+.a{
+	width: 50px;
+	height: 100%;
+	background:#f7f7f7;
+	float: right;
+	font-size: 12px;
+	color: #808080;
+	line-height: 32px;
+	margin-right: 0px; 
+	text-decoration: none;
+
+}
+
+.a:hover{
+	color:#b71a21 
+}
+
+.tupian{
+	margin-top: 9px;
+
+}
+
+
+.weix{
+	width: 38px;
+	height: 18px;
+	float: left;
+	background: url('../img/images/VANCL_03.png') no-repeat center center;
+	margin-top: 7px;
+
+}
+.two{
+	width: 1200px;
+	height: 166px;
+	/* background:green; */
+	margin: 0 auto  ;
+	overflow: hidden;
+}
+.big-box{
+	width: 100%;
+	height: 29px;
+	/* background: yellow; */
+	margin-top: 29px;
+
+	
+	}
+.remen{
+	width: 100%;
+	height: 28px;
+	/* background: pink; */
+
+}
+.bianyou{
+	width: 433px;
+	height: 28px;
+	/* background: #f98e30; */
+	float: right;
+
+
+}
+.bianyou .hezi{
+	/* color: #727171; */
+	text-decoration: none;
+
+} 
+.hezi{
+	font-size: 12px;
+	color: #727171;
+	float: left;
+	margin-right: 11px;
+	line-height: 28px;
+
+
+
+
+}
+.hezi-last{
+	margin-right: 5px;
+
+}
+.hezi-first{
+	margin-right: 13px;
+
+}
+.fank{
+	width: 100%;
+	height: 46px;
+	/* background: #9dd9f7; */
+	margin-top: 8px;
+
+
+
+}
+.fank-left{
+	width: 185px;
+	height: 50px;
+	background:  url('../FANKE/logoss.jpg') no-repeat center center;
+	float: left;
+	margin-right: 15px;
+	display: block;
+}
+
+.fank-right{
+	width: 998px;
+	height: 18px;
+	/* background: #e1e1e1; */
+	float: left;
+	margin-top: 28px;
+
+}
+.shouye{
+	width: 98px;
+	height: 16px;
+	border-left: 1px solid #888888;
+	border-right: 1px solid #888888;
+	font-size: 15px;
+	/* margin-top: 0px; */
+	line-height: 18px;
+	color: #888888;
+	text-align:center;
+	float: left;
+	text-decoration: none;
+
+
+
+}
+.shouye:hover{
+  color: #b71a21;	
+}
+.shouye-fist{border-left: 0px;
+
+}
+.shouye-last{border: 0px;
+
+}
+.sous{
+	width: 436px;
+	height: 29px;
+	float: right;
+/* 	background: pink; */
+
+}
+/* .kuang{
+	width: 259px;
+	height: 27px;
+	float: left;
+	border: 1px solid #c9caca;
+	background: #fff;
+	
+	 
+}
+.ww{
+	float: left;
+	margin-left: 5px;
+	font-size: 14px;
+	line-height: 27px;
+	color:#000000; 
+} */
+.text{
+	width:254px;
+	height: 27px;
+	border: 1px solid #c9caca;
+	float: left; 
+
+	font-size:11px;
+	padding-left: 5px; 
+
+}
+.button{
+	width: 47px;
+	height: 29px;
+	border: 1px solid #c9caca;
+	background: #b61b21;
+	border-left: none;
+	font-size:13px;
+	color: #ffffff; 
+	float: left;
+	cursor: pointer;  
+}
+.sousuo{
+	width: 47px;
+	height: 27px;
+	float: left;
+	background:#b71a21;
+	border-bottom: 1px solid #c9caca;
+	border-top: 1px solid #c9caca;
+	border-right: 1px solid #c9caca;
+	font-size: 14px;
+	line-height: 27px;
+	text-align: center;
+	color:#fff; 
+	 
+
+}
+.gouwu{
+	width: 103px;
+	height: 27px;
+	background: #b81b22;
+	float: left;
+	margin-left: 22px;
+	border:1px solid #c1383e; 
+
+
+
+}
+.xiaoche{
+	width: 20px;
+	height: 16px;
+	background: url('../FANKE/vanclsprite.png') no-repeat -159px -7px;
+	margin-top: 6px;
+	margin-left: 5px;
+	margin-right: 4px;
+    float: left;
+}
+.lin{
+	font-size: 12px;
+	float: left;
+	margin-top: 5px;
+	color: #ffffff;
+
+}
+.gouwu:hover{background:  #ffffff;}
+.gouwu:hover .xiaoche{
+	background: pink url('../FANKE/vanclsprite.png') no-repeat -158px -35px;
+
+} 
+.gouwu:hover .lin{
+	color: #b71a21;
+}
+
+.banner{
+	width: 1200px;
+	height: 534px;
+	
+	margin: 0 auto  ;
+	display: block;
+
+}
+.banner-tu{
+	width: 1200px;
+	height: 534px;
+	background: url('../FANKE/ys535.jpg') center center;
+/* 	float: left; */
+	position: relative;
+	
+
+}
+.banner-jiantou{
+	width: 20px;
+	height: 53px;
+	background: url('../FANKE/focus_lr0918.png') no-repeat -2px -5px;
+	top: 0;
+	bottom:  0;
+	position: absolute;
+	margin-top: auto;
+    margin-bottom: auto;
+    left: 12px;
+ 
+
+}
+.jianyoou2{
+	width: 20px;
+	height: 53px;
+	background: url('../FANKE/focus_lr0918.png') no-repeat -61px -7px;
+	top: 0;
+	bottom:  0;
+	position: absolute;
+	margin-top: auto;
+    margin-bottom: auto;
+	right: 12px;
+
+}
+.banner-jiantou:hover{
+	background: url('../FANKE/focus_lr0918.png')  no-repeat -2px -66px;
+
+}
+.jianyoou2:hover{
+	background: url('../FANKE/focus_lr0918.png')  no-repeat -61px -67px;
+
+
+}
+.lunbo{
+	width: 112px;
+	height: 12px;
+	
+	position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 23px;
+}
+.dian{
+	width: 12px;
+	height: 12px;
+	background:  url('../FANKE/bobo_03.png') center center;
+	margin-right: 8px;
+	float: left;
+}
+.dian:hover
+{background:  url('../FANKE/bbn_03.png') center center;
+}
+
+.dian2:hover{
+	background:  url('../FANKE/bobo_03.png') center center;
+
+}
+.dian2{
+	background:  url('../FANKE/bbn_03.png') center center;
+}
+
+
+.dian3{
+	margin-right: 0px;
+
+}
+.lunbo:hover .dian2{
+	background:  url('../FANKE/bobo_03.png') center center;
+}
+
+
+
+.four{
+	width: 1200px;
+	height: 130px;
+	background:#ffffff;
+	margin: 0 auto  ;
+	font-size: 17px;
+	color: #9a9a9a;
+	text-align: center;
+	line-height: 130px;
+
+}
+.zhu{
+	width: 1200px;
+	height: 5419px;
+	background:#ffffff;
+	margin: 0 auto  ;
+
+}
+
+.zhu .no1{
+	display: block;
+} 
+
+.no1{
+	width: 390px;
+	height: 600px;
+	/* background:green; */
+	float: left;
+	margin-right: 15px ;
+
+
+}
+.no3{
+	margin-right: 0px ;
+
+}
+.f{
+	width: 1200px;
+	height: 125px;
+	background:#ffffff;
+	margin: 0 auto  ;
+	float: left;
+	font-size: 17px;
+	color: #9a9a9a;
+	text-align: center;
+	line-height: 125px;
+
+}
+
+.zuo{
+	width: 590px;
+	height: 509px;
+	background: blue;
+	float: left;
+	margin-right: 17px ;
+
+}
+.zhong{
+	width: 290px;
+	height: 509px;
+	/* background: blue; */
+	float: left;
+	margin-right: 17px ;
+
+}
+.you{
+	width: 286px;
+	height: 509px;
+/* 	background: blue; */
+	float: left;
+	margin-right: 0 px ;
+	}
+.datu{
+	width: 590px;
+	height: 440px;
+	/* background: red; */
+	float: left;
+	
+
+	}
+.xiazi{
+	width: 588px;
+	height: 68px;
+	background: #ffffff;
+	float: left;
+	border-left: 1px solid #e8e7ec;
+	border-right: 1px solid #e8e7ec;
+	border-bottom: 1px solid #e8e7ec;
+
+
+	}
+	.wenzi{
+		width: 166px;
+		height: 13px;
+		background: #ffffff ;
+		margin-left: 12px;
+		margin-top: 29px;
+		line-height: 13px;
+		float: left;
+		font-size: 13px;
+		color: #333333;
+		}
+	.wenzi2{
+		width: 53px;
+		height: 13px;
+		background: #ffffff;
+		margin-right:13px;
+		margin-top: 29px;
+		line-height: 13px;
+		float: right;
+		font-size: 13px;
+		color: #a10000;
+		}
+	.zs{
+		width: 290px;
+	    height: 250px;
+	  /*   background: green; */
+	    float: left;
+
+	   }
+	   .zx{
+	   	width: 290px;
+	    height: 259px;
+	    background: #ffffff;
+	    float: left;
+
+	   }
+	   .dutu2{
+	   	width: 290px;
+	    height: 180px;
+	    /* background: red; */
+	   
+	    float: left;
+	    display: block;
+	
+
+	   }
+	   .xiazi2{
+	   		width: 288px;
+	    height: 69px;
+	    background: #ffffff;
+	    float: left;
+	    border-left: 1px solid #e8e7ec;
+	    border-right: 1px solid #e8e7ec;
+	    border-bottom: 1px solid #e8e7ec;
+
+	   }
+	   .yy{
+	   	  width:190px;
+	   	  height: 13px;
+	   	  background:#ffffff;
+	   	  margin-left:12px;
+		  margin-top: 32px;
+		  line-height: 13px;
+		  float: left;
+		  font-size: 13px;
+		  color: #333333;
+
+
+	   }
+	   .ll{
+		width: 53px;
+		height: 13px;
+		background: #ffffff;
+		margin-right:13px;
+		margin-top:32px;
+		line-height: 13px;
+		float: right;
+		font-size: 13px;
+		color: #a10000 ;
+		}
+		.haha{
+			width: 286px;
+	        height: 440px;
+	         /* background: red; */
+	         float: left;
+	         display: block;
+		}
+		.kk{
+			width: 286px;
+
+		}
+		.duo{
+			width: 290px;
+			height: 9px;
+			float: left;
+			
+		}
+	   .duoduo{
+	   	    height: 10px;
+
+	    }
+		.chaozhi{
+			width: 1200px;
+			height: 630px;
+			/* background: #94d3e0; */
+			margin: 0 auto  ;
+
+		}
+		.kefu{
+			width: 1198px;
+			height: 282px;
+			background: #ffffff;
+			border: 1px solid #e0e0e1;
+			margin: 0 auto  ;
+			margin-top: 47px;
+
+		}
+		.kefu-shang{
+			width: 1111px;
+			height: 139px;
+			background: #ffffff;
+			
+			margin: 0 auto  ;
+			margin-top: 33px;
+		
+
+
+		}
+		.kefu-shang .shang-left{
+			text-decoration: none;
+		}
+	
+	
+
+		.shang-left{
+			width: 369px;
+			height: 139px;
+			border-right: 1px solid #e0e0e1;
+			float: left;
+			/* background: #94d3e0; */
+
+		}
+		.leee{
+			border:0px;
+
+
+		}
+
+		.renshang{
+			width: 42px;
+			height: 42px;
+			background: url('../FANKE/onlinecustomer.png') no-repeat  center center;
+			margin-top:14px;
+			margin-left: 163px;
+			
+
+
+		}
+		.renxia{
+			width: 156px;
+			height: 32px;
+			background:#b81c22;
+		
+			margin:  0 auto;
+			margin-top: 32px;
+			font-size: 12px;
+			color: #ffffff;
+			
+			text-align: center;
+			line-height: 32px;
+
+
+
+		}
+		.qishang{
+			width:38px;
+			height: 38px;
+			background: url('../FANKE/seven.png') no-repeat  center center;
+			margin-top:14px;
+			margin-left: 163px;
+
+		}
+		.qizhong{
+			width: 78px;
+			height: 12px;
+			font-size: 12px;
+			color: #727171;
+			margin: 0 auto;
+			margin-top: 28px;
+        }
+		.qixia{
+			width: 122px;
+
+			margin-top: 14px;
+
+
+		}
+		.letop{
+			width: 98px;
+			height: 98px;
+			background:  url('../img/images/images/VANCL123_03.png') no-repeat  center center;
+			margin: 0 auto;
+			margin-top: 4px;
+
+
+		}
+		.letbott{
+			width: 126px;
+			height: 12px;
+			margin-left: 130px;
+			margin-top: 20px;
+			font-size: 12px;
+			color: #727171;
+
+
+
+
+		}
+		.letbott span{
+			color: #b81c22;
+
+		}
+		.kefu-xia .xiaa{
+			text-decoration: none;
+			color: #4d4d4d;
+			display: block;
+		}
+
+		.kefu-xia{
+			width: 1110px;
+			height: 58px;
+			margin: 0 auto  ;
+			margin-top: 23px;
+			background: #f8f8f8;
+
+		}
+		.xiaa{
+			width: 178px;
+			height: 26px;
+			border-right: 1px solid #dadadb;
+			float: left;
+			margin-top:17px;
+			font-size: 11px;
+			color: #4d4d4d;
+			text-align: center;
+			line-height: 26px;
+
+
+
+		}
+		.xiaa-right{
+			border: 0px;
+			margin-left:17px;
+
+
+		}
+		.guding{
+			width: 75px;
+			height: 205px;
+			background: url('../FANKE/baywindow.png') center center;
+			position: fixed;
+			right: 10px;
+			bottom: 50px;
+			z-index: 9999;
+			display: block;
+        }
+        .hengang{
+        	width: 1200px;
+        	height: 25px;
+        	border-bottom: 1px solid #3e3a39; 
+        	margin:0 auto;
+
+        }
+        .gongan{
+        	width: 836px;
+        	height: 14px;
+        	margin:0 auto ;
+        	margin-top: 16px;
+        	font-size: 11px;
+        	color: #727171;
+        	text-align: center;
+        	line-height: 14px; 
+
+        }
+        .gongsi{
+        	margin-top: 14px;
+        	}
+        .guanggao{
+        	width: 730px;
+        	height: 70px;
+        	margin: 27px auto 10px;
+        
+
+        }
+
+        .ggq{
+        	width: 112px;
+        	height: 40px;
+        	background: url('../FANKE/spritesbgtop.png') no-repeat 0px -582px;
+        	margin-top: 14px;
+            margin-left:36px;
+
+            float: left;
+        }
+        .ggw{
+        	width: 156px;
+        	height: 45px;
+        	background: url('../FANKE/spritesbgtop.png') no-repeat 0px -629px;
+        	margin-top: 10px;
+        	margin-left: 21px;
+        	float: left;
+
+        }
+        .gge{
+        	width: 95px;
+        	height: 41px;
+        	background: url('../FANKE/spritesbgtop.png') no-repeat 0px -674px;
+        	margin-top: 13px;
+        	margin-left: 20px;
+        	float: left; 
+        }
+        .ggr{
+        	width: 96px;
+        	height: 36px;
+        	background: url('../FANKE/spritesbgtop.png') no-repeat -98px -679px;
+        	margin-top: 18px;
+        	margin-left: 22px;
+        	float: left; 
+        }
+        .ggy{
+        	width: 42px;
+        	height: 42px;
+        	background: url('../FANKE/spritesbgtop.png') no-repeat -202px -675px;
+        	margin-top: 13px;
+        	margin-left: 26px;
+        	float: left; 
+        }
+        .ggu{
+        	width: 42px;
+        	height: 42px;
+        	background: url('../FANKE/kexin_brand_for_others.png') no-repeat center center;
+        	background-size: 42px 42px;
+        	margin-top: 13px;
+        	margin-left: 20px;
+        	float: left;
+
+        }
+
+       
+
+
+
+	
+
+
+
+	
